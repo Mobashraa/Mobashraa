@@ -55,9 +55,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" title="R"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="SQL"/>
 
-  <!-- Data Analysis & Visualization -->
+  <!-- Data Analysis & Visualization 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/> -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" title="Matplotlib"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" title="Seaborn"/>
   <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40" title="Power BI"/>
@@ -68,9 +68,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" title="PyTorch"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" title="Scikit-learn"/>
   <img src="https://static-00.iconduck.com/assets.00/langchain-icon-1024x1024-1w7z0w5a.png" width="40" height="40" title="LangChain"/>
-  <img src="https://static.wixstatic.com/media/2c78e4_4dcce3b0f7a34895b88fbe58dd14b38d~mv2.png" width="40" height="40" title="Pinecone"/>
-  <img src="https://avatars.githubusercontent.com/u/128254325?s=200&v=4" width="40" height="40" title="FAISS"/>
-  <img src="https://vector-database.io/assets/img/vectordb.png" width="40" height="40" title="Vector Databases"/>
 
   <!-- App & Visualization Frameworks -->
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40" title="Streamlit"/>
