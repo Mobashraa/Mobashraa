@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mobashra Eram Khan</h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
+<h3 align="center">A passionate Machine Learning Engineer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mobashraa&label=Profile%20views&color=0e75b6&style=flat" alt="Mobashraa" />
@@ -12,9 +12,9 @@
 ---
 
 - 🔭 I’m currently working on **LLMs in Healthcare Research & DeFi Credit Scoring using Aave V2**
-- 🌱 I’m currently learning **LLMs, Generative AI, TensorFlow, PyTorch, and Azure**
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, Generative AI, LLMs, and Data Visualization**
-- 📫 How to reach me **mobashraeramk@gmail.com**
+- 🌱 I’m currently learning **LLMs, Generative AI, Automation , RPA and Azure**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Generative AI, LLMs, and Automation**
+- 📫 Reach me at **mobashraeramk@gmail.com**
 
 ---
 
@@ -26,19 +26,10 @@
 - 💳 [**DeFi Credit Scoring using Aave V2**](#)
   - Built a scoring model (0–1000) for DeFi wallets using Aave V2 transaction data and ML-based behavioral analysis.
   
-- 🏥 [**Patient Record Analysis using Power BI**](https://github.com/Mobashraa/Patient-analysis-using-PowerBI)
-  - Designed a Power BI dashboard to visualize patient demographics, medical history, and treatment outcomes.
-  
-- 👩‍💼 [**HR Insights and Trends using Power BI**](https://github.com/Mobashraa/HR-insights-and-trends-using-Power-bi)
-  - Created an interactive dashboard for HR analytics using DAX metrics and KPI visualizations.
-  
-- 🌿 [**Potato Disease Detection using Deep Learning**](https://github.com/Mobashraa/potato-leaf-disease-detection-using-tensorflow)
-  - Developed a CNN-based model using TensorFlow for potato leaf disease detection with 92% accuracy.
-  
 - 🧾 [**Insurance Policy Retrieval System (LLM + Streamlit)**](#)
   - Streamlit-based application using LLMs to process natural language queries on insurance policy PDFs.
   
-- 🎨 [**Virtual Paint App using OpenCV**](#)
+- 🎨 [**Virtual Paint using OpenCV**](#)
   - Built a hand-tracking-based virtual painting tool using OpenCV and Mediapipe.
 
 ---
@@ -57,30 +48,56 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+ <h3 align="left">Languages and Tools:</h3>
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40" title="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="SQL"/>
+
+  <!-- Data Analysis & Visualization -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="40" height="40" title="Matplotlib"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40" height="40" title="Seaborn"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" width="40" height="40" title="Power BI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" width="40" height="40" title="Excel"/>
+
+  <!-- Machine Learning & Deep Learning -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" title="PyTorch"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" title="Scikit-learn"/>
+  <img src="https://static-00.iconduck.com/assets.00/langchain-icon-1024x1024-1w7z0w5a.png" width="40" height="40" title="LangChain"/>
+  <img src="https://static.wixstatic.com/media/2c78e4_4dcce3b0f7a34895b88fbe58dd14b38d~mv2.png" width="40" height="40" title="Pinecone"/>
+  <img src="https://avatars.githubusercontent.com/u/128254325?s=200&v=4" width="40" height="40" title="FAISS"/>
+  <img src="https://vector-database.io/assets/img/vectordb.png" width="40" height="40" title="Vector Databases"/>
+
+  <!-- App & Visualization Frameworks -->
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40" height="40" title="Streamlit"/>
+  <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png" width="40" height="40" title="OpenCV"/>
+
+  <!-- Cloud & Databases -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" width="40" height="40" title="Microsoft Azure"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" title="MySQL"/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" title="Jupyter Notebook"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="VS Code"/>
+</p>
+
 </p>
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mobashraa&show_icons=true&theme=algolia" alt="Mobashra's GitHub Stats" />
-</p>
+</p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobashraa&layout=compact&theme=algolia" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobashraa&layout=compact&theme=algolia" alt="Top Languages" height="180em" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mobashraa&theme=algolia" alt="GitHub Streak" height="180em" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mobashraa&theme=algolia" alt="GitHub Streak" />
-</p>
