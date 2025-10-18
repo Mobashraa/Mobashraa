@@ -95,9 +95,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Mobashraa&show_icons=true&theme=algolia" alt="Mobashra's GitHub Stats" />
 </p> -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobashraa&layout=compact&theme=algolia" alt="Top Languages" height="180em" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mobashraa&theme=algolia" alt="GitHub Streak" height="180em" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mobashraa&layout=compact&theme=algolia" alt="Top Languages" height="180em" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mobashraa&theme=algolia" alt="GitHub Streak" height="180em" />
+    </td>
+  </tr>
+</table>
 
